@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Daniel</h1>
 
-- 🔭 I’m currently searching for a job, to get started in the programming area.
+- 🔭 I’m currently searching for a job, to put all my knowledge into practice.
 - 🌱 I’m currently learning **Python**
 - 👯 I’m looking to collaborate on **Python  projects**
 - ⚡ I know **PHP**, **HTML5**, **CSS**
