@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Daniel</h1>
 
 - 🔭 I’m currently searching for a job, to put all my knowledge into practice.
-- 🌱 I’m currently learning **Python** and **React**
-- ⚡ I know **PHP**, **HTML** and **CSS**
+- 🌱 I’m currently learning **SvelteJS**
+- ⚡ I know **Python**, **PHP**, **HTML**, **CSS** and **ReactJS**
 - 📫 How to reach me: danielrios.oficial@gmail.com
 
 <div align="center">
