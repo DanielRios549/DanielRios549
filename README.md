@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Daniel</h1>
 
-- 🔭 I’m currently searching for a job, to put all my knowledge into practice.
-- 🌱 I’m currently learning **SvelteJS**
-- ⚡ I know **Python**, **PHP**, **HTML**, **CSS** and **ReactJS**
+- 🔭 I’m currently working at [OriGatou](https://legacy.origatou.com/)
+- 🌱 I’m currently studing  **System Analysis and Development** at **Estácio**
+- ⚡ I know **Python**, **PHP**, **HTML**, **CSS**, **Typescript**, **ReactJS** and  **SvelteJS**
 - 📫 How to reach me: danielrios.oficial@gmail.com
 
 <div align="center">
