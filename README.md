@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Daniel</h1>
 
-- 🔭 I’m currently looing for a job.
+- 🔭 I’m currently open to work.
 - 🌱 I’m currently studing  **System Analysis and Development** at **Estácio**
 - ⚡ I know **Python**, **PHP**, **HTML**, **CSS**, **Typescript**, **ReactJS** and  **SvelteJS**
 - 📫 How to reach me: danielrios.oficial@gmail.com
