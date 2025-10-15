@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at OriGatou Creative Solutions.
 - 🌱 I studied  **System Analysis and Development** at **Estácio**
-- ⚡ I know **Python**, **PHP**, **HTML**, **CSS**, **Typescript**, **ReactJS** and  **SvelteJS**
+- ⚡ I know **Python**, **Go**, **PHP**, **Sass**, **Tailwind**, **Typescript**, **NextJS** and  **SvelteKit**
 - 📫 How to reach me: me@danielrios.dev
 
 <div align="center">
