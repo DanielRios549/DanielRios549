@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Daniel</h1>
 
-- 🔭 I’m currently working at OriGatou Creative Solutions.
+- 🔭 I’m currently searching for a new job
 - 🌱 I studied  **System Analysis and Development** at **Estácio**
-- ⚡ I know **Python**, **Go**, **PHP**, **Sass**, **Tailwind**, **Typescript**, **NextJS** and  **SvelteKit**
+- ⚡ I know **Python**, **Go**, **Sass**, **Tailwind**, **Typescript**, **NextJS** and  **SvelteKit**
 - 📫 How to reach me: me@danielrios.dev
 
 <div align="center">
